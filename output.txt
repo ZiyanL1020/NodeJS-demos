@@ -1,0 +1,1 @@
+Sample output textThis is from input.txt 
